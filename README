@@ -1,0 +1,10 @@
+simple utilisation du capteur BNO055
+
+-----
+connectique :
+vin -> 5v
+gnd -> gdn (:-) )
+sda -> A4
+scl -> A5
+
+C'est tout , ensuite, le code d'example marche sans problème :-)
